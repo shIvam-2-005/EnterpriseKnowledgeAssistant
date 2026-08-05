@@ -16,3 +16,10 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+backend/uploads/
+backend/testEmbedding.js
+backend/.env
+frontend/.env
+
+del backend\testEmbedding.js
